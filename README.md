@@ -12,7 +12,7 @@ There are 4 api calls:
 
 1) Creating a user by supplying firstName and lastName
 2) Getting a created user's details by supplying userId
-3) Creating a todo item for a user by supplying userId and the item value
+3) Creating a todo item for a user by supplying userId and the item value (user needs to already exist in the store)
 4) Getting all todo items for a user by supplying the userId
 
 Attached with the email should be the screenshots for the api calls in postman, for easier understanding of the api formats
